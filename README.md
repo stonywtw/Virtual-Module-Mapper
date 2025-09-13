@@ -1,4 +1,4 @@
-# virt_map
+# virtual_module_mapper
 Lightweight manual module mapper that handles exceptions from common virtualizers and executes shellcode via thread hijacking.
 
 ## usage
